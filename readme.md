@@ -3,6 +3,7 @@
 ## Sorting
    * Quick Sort
    * Merge sort
+   * Bubble Sort
 
 
 
