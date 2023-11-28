@@ -2,6 +2,7 @@
 
 ## Sorting
    * Quick Sort
+   * Merge sort
 
 
 
